@@ -5,4 +5,4 @@ O CSS Grid Layout é uma nova especificação do CSS e ela veio para resolver pr
 na tela que existem. No curso eu inicio pelos fundamentos e depois vamos para a prática criando um projeto real do zero.
 
 
-Projeto Prático Wildbeast
+Projeto Prático Wildbeast - https://marcelo-rafael.github.io/wildbeast/
