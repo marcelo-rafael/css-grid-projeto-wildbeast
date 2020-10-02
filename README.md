@@ -8,7 +8,7 @@
 <h4 align="center"> 
 	🚧  CSS Grid Layout 🚧
 </h4>
-<p align="center">Deployed <a href="https://marcelo-rafael.github.io/css-grid-projeto-wildbeast/">here</a>.</p>
+<p align="center">Deployed <a href="https://marcelo-rafael.github.io/wildbeast/">here</a>.</p>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
