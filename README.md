@@ -2,7 +2,7 @@
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 <h1 align="center">
-    <img alt="wildbeast" title="#wildbeast" src="./wildbeast.jpg" />
+    <img alt="wildbeast" title="#wildbeast" src="./wildbeast.png" />
 </h1>
 
 <h4 align="center"> 
