@@ -57,7 +57,7 @@
 
 # :computer: About
 
-Wildebest is a project to create a responsive layout in css using the new properties of CSS Grid Layout, with this we can create complex layouts and still keep the HTML markup clean.
+Wildbeast is a project to create a responsive layout in css using the new properties of CSS Grid Layout, with this we can create complex layouts and still keep the HTML markup clean.
  💜
 
 project developed during the CSS Grid Layout course offered by the [Origamid](https://www.origamid.com/curso/css-grid-layout)
