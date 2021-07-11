@@ -32,7 +32,7 @@
 <h1 align="center"> 
 	Wildbeast - CSS-Grid-Layout - Origamid
 </h1>
-<p align="center">Deployed <a href="https://marcelo-rafael.github.io/wildbeast/">here</a>.</p>
+<p align="center">Deployed <a href="https://marcelo-rafael.github.io/origamid-wildbeast/">here</a>.</p>
 
 ---
 
